@@ -1,4 +1,4 @@
-#Exercício 01 - EPS 
+# Exercício 01 - EPS 
 
 1. No seu perfil do GitHub na aba Repositories, crie um novo repositório clicando no botão New; (Repositório Criado)
 2. Se desejar selecione a opção Add a README file para criar um arquivo de apresentação; (Adicionei para mostrar os passos que realizei)
